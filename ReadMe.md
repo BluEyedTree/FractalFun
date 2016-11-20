@@ -4,3 +4,16 @@ After selection, another screen is opened. In this new screen you can click the 
 
 The design implements the Factory method with the FractalFactory Class. In order to expand on the work, you must hard code (I know not the best design) a new button to the menu. Then, create a new Fractal that extends Fractal Shape. Then add the appropriate code in FractalFactory to create your new Fractal!
 
+
+
+The Menu:
+![](https://github.com/BluEyedTree/FractalFun/blob/master/FractalFunMenu.jpg)
+
+
+
+Stochastic Tree (with color selected as black)
+![](https://github.com/BluEyedTree/FractalFun/blob/master/StochasticFractalTree.jpg)
+
+
+Tree (with color selected as green)
+![](https://github.com/BluEyedTree/FractalFun/blob/master/FractalTree.jpg)
